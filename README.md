@@ -1,1 +1,0 @@
-# pro-quiz-bot
